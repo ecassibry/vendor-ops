@@ -2,7 +2,7 @@
 
 > Operational layer for buy-side procurement: turns vendor contracts into structured data, links MSAs → SOWs → POs, and surfaces the renewal and spend decisions that need action.
 
-**Status:** 🚧 MVP in progress · **Author:** Bob · **Target MVP:** December 2026
+**Status:** 🚧 MVP in progress · **Author:** Elizabeth Cassibry · **Target MVP:** January 2027
 
 **Modules:** Renewal Radar (MVP) · SOW Burn (V1) · Vendor Dedupe (later)
 
@@ -44,7 +44,7 @@ The MVP, **Renewal Radar**, targets one workflow (renewal decisions) and aims to
 | Source | What it shows |
 | --- | --- |
 | Firsthand experience | I managed vendor MSAs and SOWs end to end on the buy side. Renewal terms lived in PDFs, spend lived in the P2P tool, and the link between them lived in people's heads. |
-| User interviews (n = _TBD_) | _[Add quotes, e.g. "We found out about the renewal when the invoice arrived."]_ |
+| User interviews (n = _TBD_) ||
 | Market signal | P2P systems track transactions; CLM tools track documents. Few connect the two into a single operational picture. |
 | Data asset | [CUAD](https://www.atticusprojectai.org/cuad) provides ~500 labeled commercial contracts to validate extraction quality. |
 
